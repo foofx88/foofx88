@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FX
 - 👀 I’m interested in https://store.linefriends.com/collections/sally
-- 🌱 I’m currently learning to be a Data Analyst. Learning Python and all sorts of Data analysis and visualisation methods
+- 🌱 Aspired to be a Data Analyst. Continual learning on data scraping and cleaning with Python, data visualisation methods with D3, Chart.JS and Tableau.
 
 <!---
 foofx88/foofx88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
