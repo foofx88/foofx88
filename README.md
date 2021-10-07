@@ -1,6 +1,6 @@
 👋 Hi, I’m FX <br>
 🌱 Data Analyst + Creative Problem Solver + Customer Service Champion <br>
-📚 Continuous learning on data manipulation, machine learning and big data <br>
+📚 Continuous learning on data manipulation, data visualization, machine learning and big data <br>
 😍<a href="https://store.linefriends.com/collections/sally"> Line Friend's Sally</a> is my favorite character
 
 📧 Reach me via my email - fangxuan.foo@gmail.com
